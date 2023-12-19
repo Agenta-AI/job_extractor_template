@@ -1,6 +1,5 @@
----
-title: "Extraction using OpenAI Functions and Langchain"
----
+# Extraction using OpenAI Functions and Langchain"
+
 
 This templates is designed to extracts job information (company name, job 
 title, salary range) from a job description. It uses OpenAI Functions and 
