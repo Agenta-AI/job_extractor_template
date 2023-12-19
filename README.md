@@ -1,4 +1,4 @@
-# Extraction using OpenAI Functions and Langchain"
+# Extraction of Structured Data from Job Description using OpenAI Functions, Langchain and Agenta
 
 
 This templates is designed to extracts job information (company name, job 
