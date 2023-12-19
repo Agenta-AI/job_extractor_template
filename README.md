@@ -43,6 +43,7 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
 agenta variant serve app.py
 ```
 
-### 5. Experiment with the prompts in a playground and evaluate different 
-variants
+### 5. Experiment with the prompts in a playground and evaluate different variants in agenta
+
+https://github.com/Agenta-AI/job_extractor_template/assets/4510758/30271188-8d46-4d02-8207-ddb60ad0e284
 
