@@ -1,0 +1,48 @@
+
+About the job
+
+Pure is a dating app for honest dating around the world. We believe that dating is not just endless swiping, but a fun game in which everyone can find something for themselves regardless of their taste!
+
+We are looking for an ML Engineer who will work on enhancing our Recommendation System in order to provide optimal user experience!
+
+Who are we looking for?
+
+    PhD or MS in machine learning, computer science, statistics, or other highly quantitative fields
+    3+ years of professional experience
+    Hands-on experience in designing and building highly scalable distributed ML models.
+    Proficiency in Python, SQL.
+    In-depth knowledge of deep neural networks, classification and regression techniques, natural language processing.
+    Experience with recommendation systems for e-commerce, social media, or entertainment platforms.
+    Strong understanding of data structures and algorithms and their implementation in machine learning models.
+    Experience with data preprocessing, feature engineering, and model selection.
+    Monitor and maintain machine learning models and applications
+    Ability to communicate complex technical concepts to non-technical stakeholders.
+
+Bonus points for:
+
+    Experience with big data frameworks, especially combining extensive datasets.
+    Experience with AWS or Google Cloud Platform.
+    Experience with Kubernetes.
+    Demonstrable experience in building and developing algorithms.
+    Proven experience producing computationally efficient software to meet real-time requirements.
+    Expertise in Large Language Models (LLMs) such as GPT-3, GPT-4, or similar.
+
+What will you be working on?
+
+    Exciting problems for recommendations to improve the user experience.
+    Designing and implementing state-of-the-art machine learning algorithms, including Large Language Models, in distributed machine learning frameworks.
+    Conducting experiments to evaluate model performance and provide recommendations for improvements.
+    Developing and maintaining documentation for models, datasets, and experiments.
+    Work with data scientists and software engineers to build and improve machine learning systems.
+
+What do we offer?
+
+    Remote-first environment (our office is in Berlin if you prefer to work from there).
+    Flexible working hours.
+    Quarterly bonuses based solely on your performance.
+    An opportunity to join us during our high-growth stage and create an impact.
+    Language lessons on Preply.
+    Yearly education budget.
+    A multinational and diverse workplace.
+
+At Pure, we are anything but boring. Join us on a mission to make dating more exciting for everyone!

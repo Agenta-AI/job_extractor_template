@@ -1,0 +1,70 @@
+
+About the job
+
+💡 About PLENO
+
+PLENO is a platform that automates the carbon credit creation process using ML and blockchain technology. We leverage cutting-edge technology and data-driven strategies to provide a geospatial-data collection via remote sensors, the most accurate calculation of carbon stocks, and geospatial-data verification system.
+
+
+👥 Profile Description:
+
+The ideal candidate will have a strong background in designing data infrastructure (data warehouse, data lake, data pipeline, data workflow management system, etc.), (geospatial) data processing and analysis, working with large-scale geospatial datasets, and Python programming.
+
+Moreover, experience with geospatial data platforms such as Google Earth, NASA Earth Observing System Data and Information System (EOSDIS), Esri, Planet, or similar platforms will be highly valued.
+
+
+💻 Responsibilities:
+
+ • Data infrastructure via GCP for PLENO (https://pleno.earth): Data lake, Data warehouse, automation of ETL, etc.
+
+ • Connection between the data infrastructure and Google Earth Engine via GCP.
+
+ • The ETL automation consists of (real-time):
+
+ • Ingestion of 5 different data sources (one of them is google earth platform),
+
+ • Cleaning and combining the data from different data sources into 1 dataset,
+
+ • Analyzing/extracting the information from the dataset,
+
+ • Preprocessing the analzed data for our ML model e.g. image processing, feature engineering, etc.
+
+ • Visualizing the data for the user's analytical dashboard.
+
+ • The pipeline needs to be tested and run asynchronously.
+
+
+📗 Qualifications:
+
+You need to have in-depth knowledge in the following technologies:
+
+ • Geospatial-Data Platform: Google Earth, NASA EOSDIS, Planet Lab, GFW, Esri, or similar platforms.
+
+ • Data Tools: Hadoop, Spark, Kafka, etc.
+
+ • Databases:
+
+ • Geospatial databases and systems: PostGIS, GeoMesa, ArcGIS
+
+ • SQL: PostgreSQL
+
+ • NoSQL: MongoDB
+
+ • Programming Language: Python (PySpark will be a plus).
+
+ • Web Framework: FastAPI, Streamlit.
+
+ • Testing Framework: PyTest and Coverage.
+
+ • Cloud Platforms Google Cloud Platform (GCP).
+
+
+We'll use the industry standard library from Python for the data engineering e.g. Pandas, GeoPandas, NumPy, etc.
+How you match
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills added by the job poster
+1 skill on your profile
+Python (Programming Language)
+9 skills missing on your profile
+Data Engineering, Geospatial Data, Data Infrastructure, Geospatial Information Systems, Google Cloud Platform (GCP), PySpark, PostGIS, Data Pipelines, and Data Processing
+Add skills you have to your profile to stand out to the employer. Add skills

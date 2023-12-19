@@ -1,0 +1,55 @@
+
+51-200 employees · IT Services and IT Consulting
+3 school alumni work here
+See how you compare to 13 applicants. Reactivate Premium
+
+About the job
+Introduction
+
+
+You want to lift your career within data science to the next level? You have already been working on improving data pipelines and monitoring data quality? Check! Read on further and hit the "apply button" - we are already eager to review your application.
+
+
+What You Can Look Forward To
+
+
+    We want to see you thrive: The possibility to work remote from Germany (we offer a hybrid working model)
+    Great place to work: An office with a rooftop terrace in Berlin-Kreuzberg and adorable office dogs who are already looking forward to meet you
+    We love to work but we also love to rest: 28 paid vacation days (30 paid vacation days from your 3rd year at orderbird onwards)
+    Company events - we stand together and celebrate our successes! Wether it’s a summer event, a BBQ session on our rooftop or our monthly get-together organized by two departments
+    Our DNA: Fast and clear decision-making processes and close cooperation with all stakeholders and plenty of scope for your input, creativity and a good deal of responsibility
+    Come as you are: We have no dresscode and want you to feel comfortable being who you are. Everyone is welcome!
+    We are one team: A committed, friendly and international team – we know everyone says that, but itʼs really true!
+    Company update every Wednesday: Different teams give an update on their current projects and you get the chance to meet new birds and hear their Fun Facts
+    The opportunity to create a leading solution landscape that leads small and medium-sized restaurateurs and neighbourhood businesses to success
+    You won’t get bored here: Our support team loves to bake, Uta cooks lunch, our marketing team writes birthday poems or we go out for a running session! What do you want to do next?
+
+
+Among Other Tasks You Will Be Working On
+
+
+    Partnering with business and product owners to develop AWS cloud based technical architectures for strategic data products, data projects and initiatives. 
+    Maintaining and enforcing the standards for Data & Business Intelligence solution architecture
+    Maintain the data architectures that support all functional and nonfunctional domains covered by orderbirds data product portfolio. 
+    Work with the Data Science team to identify data needs and requirements around BI, ML and AI use cases and incorporate them into the data architecture evolution. 
+    Develop strategies for data storage, organization, and access that meet the evolving needs of our software products
+    Managing our data pipeline and ETL jobs
+    Taking over the ownership of all infrastructure topics of the Data Science team
+    Being in charge of our lifecycle management of Machine Learning projects
+    Coordinate with our DevOps and/or Engineering team
+
+
+What You Bring Along For This Role
+
+
+    Academic degree in computer science, mathematics, statistics, or equivalent qualification/training
+    Several years of practical experience in the field of data engineering/data architecture/data management/data governance particularly with DBMS and Big-Data Infrastructure in a dynamic environment and growing company
+    Solid understanding of data processing technologies such as: Airflow,. Kafka, Redshift, Flink, Spark. 
+    Proficiency in working with Python
+    Experience in developing, testing, deploying and maintaining end-to-end data analytical solutions
+    Proficient in working with Linux Shell and Git Workflows
+    Basic understanding of web applications and stream processing
+    Familiar working with cloud infrastructure, ideally AWS
+    Enjoy working independently and carrying responsibility for your tasks
+    Fluently speaking English
+

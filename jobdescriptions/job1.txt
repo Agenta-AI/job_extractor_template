@@ -1,0 +1,77 @@
+ About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, gt.school. Have you got what it takes?
+
+
+Are you ready to spearhead a groundbreaking educational revolution? gt.school is seeking a visionary technical product manager to lead the development and implementation of a revolutionary educational platform that combines the captivating appeal of TikTok with the educational power of Neal Stevenson's "A Young Lady's Illustrated Primer." If you are passionate about transforming the way students learn and possess the technical prowess and product management expertise to turn this vision into reality, then we have an opportunity that will ignite your enthusiasm and drive your career to new heights.
+
+
+At gt.school, we are on a mission to accelerate the pace of learning by 5-10X, leveraging the incredible potential of technology, algorithms, and generative AI. Inspired by the transformative qualities of "A Young Lady's Illustrated Primer," we aim to create a platform where students can discover, explore, and learn at an unprecedented rate. In this position, you will play a pivotal role in bringing this vision to life.
+
+
+Imagine building a TikTok for Education, where students no longer follow influencers but embark on an immersive learning journey, following subjects that pique their curiosity. Instead of aimlessly scrolling through random videos, they will be served targeted, interactive content such as videos, flashcards, and other engaging materials inspired by the learning algorithm in TikTok.
+
+
+Passion for education and innovation is a must. We are a team of individuals driven by a deep understanding of education, coupled with a rich technical culture and domain expertise. With a school of 200 students already under our belt, we have an intimate knowledge of the challenges and opportunities in the education landscape. Now, with the advent of generative AI, we are poised to take education to new heights, and we are seeking a product owner who shares our enthusiasm and technical skills.
+
+
+Join us in this exhilarating journey to transform education on a global scale. You will be at the forefront of the Golden Age of disruption in education. If you are ready to apply your technical expertise, product management mindset, and unwavering passion to creating a future where learning knows no bounds, then come and join our team. Together, we will build products that accelerate learning, redefine education, and empower the next generation of learners.
+
+
+What You Will Be Doing
+
+
+    Conceptualizing and developing the product: collaborating with cross-functional teams to build a platform that revolutionizes education by enabling students to follow subjects and receive targeted learning content.
+    Making strategic decisions: utilizing market research and data analysis to inform strategic decisions related to product development, feature prioritization, and technology adoption. 
+    Leveraging your entrepreneurial mindset to identify opportunities, evaluate risks, and make informed decisions that align with the company's vision.
+    Developing an MVP by translating abstract guidance into detailed specifications; actively engaging in discussions and capturing requirements from stakeholders. 
+    Using your product management experience to define sprints, stories, and development milestones for the engineering team. 
+    Embracing an iterative approach, continuously seeking customer feedback, and using data to drive product enhancements.
+    Providing technical leadership and product delivery: leading the product development team, ensuring high-quality deliverables and adherence to project timelines. Collaborating with engineering leadership to solve problems through automation, advanced algorithms, and optimized data structures.
+    Sharing the company's passion for education and embracing the disruptive potential of generative AI in the learning process. Staying up to date with the latest advancements in education technology and fostering a culture of innovation within the organization.
+
+
+Basic Requirements
+
+
+Chief Technology Officer key responsibilities
+
+
+    At least 10 years in product management, preferably in a startup or entrepreneurial environment, with a proven track record of success. 
+    Experience owning a product: from defining the requirements to launching the MVP and iterating based on customer feedback, you've been the driving force behind a product.
+    Strong technical background with the ability to understand and discuss data structures, algorithms, and relevant technologies. Experience with generative AI and machine learning is highly desirable. Must be able to make informed decisions regarding the selection and implementation of appropriate technologies, such as AWS Bedrock or ChatGPT, to support the platform's objectives
+    Demonstrated leadership capabilities with a focus on driving results, fostering collaboration, and inspiring teams to achieve ambitious goals.
+    Ability to grasp market dynamics, identify customer needs, and align product strategies accordingly.
+    A genuine passion for transforming education and leveraging technology to accelerate learning outcomes.
+
+
+About Gt.school
+
+
+gt.school is a stealth EdTech startup in Austin, Texas, the center of educational innovation in the US. Our unique approach leverages 50+ years of learning science, cutting-edge data analytics and high-performance life skills coaching. In doing so, we can help students learn 5x faster and unlock their full potential in both academics and in life. We are a remote-first company that hires globally via Crossover.
+
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+
+Working with Crossover
+
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $400 USD/hour, which equates to $800,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+
+What to expect next:
+
+
+    You will receive an email with a link to start your self-paced, online job application.
+    Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+
+Important! If you do not receive an email from us:
+
+
+    First, emails may take up to 15 minutes to send, refresh and check again.
+    Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+    Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+    If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+ Crossover Job Code: LJ-5018-DE-Berlin-ChiefTechnolog.006

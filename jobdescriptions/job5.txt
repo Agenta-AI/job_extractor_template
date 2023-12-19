@@ -1,0 +1,84 @@
+
+About the job
+
+Point Twelve is seeking a highly motivated and self-driven individual to join our startup journey. As a Senior Software Engineer, you will play a critical role in our team, contributing to the growth and success of our company. We are looking for someone who thrives in a fast-paced and dynamic environment, is passionate about our mission, and can take ownership of their work. The ideal candidate should be proactive, resourceful and possess a strong drive to excel.
+
+
+Full job desc here: https://point-twelve.notion.site/Senior-Software-Engineer-Full-Stack-Tech-Lead-Point-Twelve-332f55bf41b544bca6313f0ee7bda34d?pvs=4
+
+
+
+🚀 About Us
+
+Point Twelve is a Sustainability Tech startup based in Munich offering a SaaS Platform that enables energy-intensive goods producers (gas, fuels, chemicals, materials) to easily and continuously certify their production as green, saving up to 90% time in the process. Continued, technology enabled green certification instead of today’s manual, costly, unpredictable and non-scalable certification and verification processes.
+
+
+
+🤓 Your Responsibilities
+
+🤝 You will be a direct sparring partner to the CTO
+
+
+    Lead software design and implementation: Design, develop, test, and deploy full stack software solutions that are easy to maintain, troubleshoot, and upgrade.
+    Be involved in mentoring of software engineers, interns, and other technical operations such as hiring and security compliance
+    Collaborate directly with founders and our customers to ship stable, maintainable code while iterating as fast as possible
+
+
+
+🏆 Must-haves
+
+    Self-motivated and can roll with the punches in an environment where priorities and requirements may change frequently
+    5+ years of professional experience in software development, with experience in full stack development preferred
+    Strong understanding of software development principles and practices, as well as experience with full stack development technologies, such as Typescript, React, Node.js, Postgresql, and cloud technologies like AWS.
+    A master's degree or above in computer science or a related field
+    Strong understanding of the value of writing clean, maintainable software, including documentation
+    Good communication skills, especially oral and written English
+
+
+
+🙏 Nice-to-haves
+
+    Worked and thrived in a fast-paced environment previously
+    Web3 Experience (ethereum, solidity)
+    Related domain expertise: energy, certification, sustainability
+
+
+
+💻 Our core technologies
+
+    Frontend: React, TypeScript
+    Backend: Nest.js (Node.js, TypeScript)
+    Data storage: Postgresql, AWS S3
+    Infrastructure: AWS - (AWS CDK)
+    Pipeline: GitLab CICD
+
+⁉️ Not your stack? We value drive, ability to learn fast and general understanding of software development over specific tool knowledge.
+
+
+
+🛠️ How we work
+
+    We use Slack to communicate, but also enjoy being in the same room to communicate in-person
+    We use Notion to document all our decisions and learnings
+
+
+
+🤫 Why us?
+
+    🦾 Impact: as one of the first employees of the company, shape the Point Twelve culture and product and support our mission to decarbonise our industry by revolutionizing the way green certification takes place
+    🔀 Hybrid work and central Munich offices: work from the office and from home.
+    📈 Opportunity: be part of and shape a fast-growing and impactful startup, and participate in our pool of Employee Stock Options.
+
+
+
+👥 Who we are
+
+Point Twelve was initially founded by Flore, Quentin and Erika - forming a strong and competent team, bringing 15 years of working experience and an outstanding network in the renewable energy sector. Their competencies are at the crossings between data analytics, energy markets & regulation and product design.
+
+What the team shares? A huge drive to decarbonize our industry, and a fundamental belief that a success is always a people success. An obsession to solve big problems and constantly raise the bar.
+
+
+
+➡️ Apply for this position
+
+Please send your CV + your LinkedIn profile and your earliest possible starting date to quentin@point-twelve.energy. We are looking forward to your application and will try to get back to you as soon as possible!
