@@ -47,3 +47,4 @@ agenta variant serve app.py
 
 https://github.com/Agenta-AI/job_extractor_template/assets/4510758/30271188-8d46-4d02-8207-ddb60ad0e284
 
+You can find example inputs under the folder jobdescriptions.
